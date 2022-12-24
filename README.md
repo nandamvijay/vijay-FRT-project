@@ -11,7 +11,7 @@ This is a web based application developed for agro harvest agericulture related 
 *Project Link* -  https://victorious-forest-032f4f100.2.azurestaticapps.net
 
 
-*Project demo video link -
+*Project demo video link* -
 
 
 
